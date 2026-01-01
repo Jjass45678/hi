@@ -1,4 +1,4 @@
-serverBaseUrl= http://brixmodz2.x10.mx/connect
+serverBaseUrl= http://brixmodz2.x10.mx/OnlineLibJustine/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
