@@ -4,4 +4,4 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=Brix Library System
 
-game1=BRIXMODZ|libbrix23.so| REMEMBER: If the menu doesn't appear, please close the mod immediately.
+game1=BRIXMODZ|libbrixshop.so| REMEMBER: If the menu doesn't appear, please close the mod immediately.
